@@ -1,0 +1,136 @@
+{
+    "basics": {
+        "name": “aryan kumar",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2017@iiitkota.ac.in",
+        "phone": "+919779989368",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in electronics and communication engineering. Building awesome Web pages. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "jagraon",
+            "postalCode": "142026",
+            "city": "jagraon",
+            "countryCode": " India",
+            "region": "punjab"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "aryankumar07",
+                "url": “https://github.com/aryankumar07/"
+            },
+            {
+                "network": "linkedin",
+                "username": “aryan kumar",
+                "url": "https://www.linkedin.com/in/aryan-kumar-45b2a0236/"
+            },
+            {
+                "network": "Instagram",
+                "username": “iam_aryan178",
+                "url": "https://www.instagram.com/iam_aryan178/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.48",
+            "courses": [
+                "electronics and communication engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React",
+                “c/c+”,
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "gaming",
+            "keywords": [
+                "shooting"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "football"
+            ]
+        }
+    ]
+}
